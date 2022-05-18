@@ -6496,9 +6496,9 @@
 												"$ref": "AAAAAAGAxz98XnMSlYc="
 											},
 											"font": "Arial;13;0",
-											"left": 56.72998046875,
+											"left": 56.45703125,
 											"top": 77,
-											"width": 86.2236328125,
+											"width": 88.140625,
 											"height": 13,
 											"text": "상품 정보 검색"
 										},
@@ -6511,7 +6511,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 77,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -9588,9 +9588,9 @@
 												"$ref": "AAAAAAGAx/K0fQGLKc0="
 											},
 											"font": "Arial;13;0",
-											"left": 56.72998046875,
+											"left": 56.45703125,
 											"top": 77,
-											"width": 56.61181640625,
+											"width": 57.5703125,
 											"height": 13,
 											"text": "상품 구매"
 										},
@@ -9603,7 +9603,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 77,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -13160,9 +13160,9 @@
 												"$ref": "AAAAAAGAyAly1T813I0="
 											},
 											"font": "Arial;13;0",
-											"left": 56.72998046875,
+											"left": 56.45703125,
 											"top": 61,
-											"width": 86.2236328125,
+											"width": 88.140625,
 											"height": 13,
 											"text": "구매 내역 조회"
 										},
@@ -13175,7 +13175,7 @@
 											"font": "Arial;13;1",
 											"left": 37,
 											"top": 61,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -15987,9 +15987,9 @@
 												"$ref": "AAAAAAGAyFxm6mikcHo="
 											},
 											"font": "Arial;13;0",
-											"left": 72.72998046875,
+											"left": 72.45703125,
 											"top": 61,
-											"width": 99.2236328125,
+											"width": 101.140625,
 											"height": 13,
 											"text": "구매 만족도 평가"
 										},
@@ -16002,7 +16002,7 @@
 											"font": "Arial;13;1",
 											"left": 53,
 											"top": 61,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -18239,7 +18239,7 @@
 											"top": 85,
 											"width": 139.80712890625,
 											"height": 13,
-											"text": "«boundary»"
+											"text": "«control»"
 										},
 										{
 											"_type": "LabelView",
@@ -18648,7 +18648,7 @@
 											"top": 85,
 											"width": 115.36865234375,
 											"height": 13,
-											"text": "«boundary»"
+											"text": "«control»"
 										},
 										{
 											"_type": "LabelView",
@@ -19057,7 +19057,7 @@
 											"top": 205,
 											"width": 145.5771484375,
 											"height": 13,
-											"text": "«boundary»"
+											"text": "«control»"
 										},
 										{
 											"_type": "LabelView",
@@ -19466,7 +19466,7 @@
 											"top": 205,
 											"width": 103.34619140625,
 											"height": 13,
-											"text": "«boundary»"
+											"text": "«control»"
 										},
 										{
 											"_type": "LabelView",
@@ -19670,7 +19670,7 @@
 					},
 					"name": "SearchProduct",
 					"stereotype": {
-						"$ref": "AAAAAAGA0pkYEzdcSys="
+						"$ref": "AAAAAAGA0pkYEzdZAZg="
 					},
 					"operations": [
 						{
@@ -19720,7 +19720,7 @@
 					},
 					"name": "PurchaseProduct",
 					"stereotype": {
-						"$ref": "AAAAAAGA0pkYEzdcSys="
+						"$ref": "AAAAAAGA0pkYEzdZAZg="
 					},
 					"operations": [
 						{
@@ -19770,7 +19770,7 @@
 					},
 					"name": "CheckPurchaseHistory",
 					"stereotype": {
-						"$ref": "AAAAAAGA0pkYEzdcSys="
+						"$ref": "AAAAAAGA0pkYEzdZAZg="
 					},
 					"operations": [
 						{
@@ -19820,7 +19820,7 @@
 					},
 					"name": "EvaluateRating",
 					"stereotype": {
-						"$ref": "AAAAAAGA0pkYEzdcSys="
+						"$ref": "AAAAAAGA0pkYEzdZAZg="
 					},
 					"operations": [
 						{
@@ -28547,7 +28547,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 60,
-									"width": 120.396484375,
+									"width": 126.00390625,
 									"height": 22
 								},
 								{
